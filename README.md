@@ -1,5 +1,4 @@
 # OWVAL
-https://media.licdn.com/dms/image/C4E16AQHrmR5Ktpf-pg/profile-displaybackgroundimage-shrink_350_1400/0/1654422991472?e=1723680000&v=beta&t=CdNY_bTaodAXtoapEOv28BRi5voFEAhuMwfwL3QQzQA
 Redefining healthcare distribution advance full stack and data driven B2B healthcare distribution platform.
 
 Database - MangoDB.
